@@ -1,25 +1,15 @@
-<h1 align="center">
-  <img width="206" alt="gobarber" src="https://user-images.githubusercontent.com/11545976/81596075-d6213000-9399-11ea-97b2-eba1a4108788.png">
-</h1>
-
-## 💥 Gobarber | Gostack 11
-
-Versão atualizada do GoBarber com mudanças desde o layout às tecnologias utilizadas. A aplicação segue o mesmo conceito da versão anterior, permitindo gerenciar usuários administradores, clientes, agendamentos e outras funcionalidades em um ambiente de barbearia.
-
-Nesta versão, foram aplicados padrões de arquitetura e boas práticas de programação como **DDD**, **SOLID**, **Service Pattern** e **Repository Pattern**. Durante todo o desenvolvimento foi utilizado **TDD** com a ferramenta *Jest*.
-
 ## Índice
-- 🚀 [Funcionalidades](#-funcionalidades)
-- ⚙ [Tecnologias utilizadas](#-tecnologias)
-- 💻 [Instruções para o back end](#-instruções-para-o-back-end)
-- 💻 [Instruções para o front end](#-instruções-para-o-front-end)
-- 📱 [Instruções para o mobile](#-instruções-para-o-mobile)
-- 🐞 [Executandos testes](#-executando-testes)
-- 📸 [Interfaces da aplicação](#-interfaces-da-aplicação)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias utilizadas](#-tecnologias)
+- [Instruções para o back end](#-instruções-para-o-back-end)
+- [Instruções para o front end](#-instruções-para-o-front-end)
+- [Instruções para o mobile](#-instruções-para-o-mobile)
+- [Executandos testes](#-executando-testes)
+- [Interfaces da aplicação](#-interfaces-da-aplicação)
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Recuperação de senha
   - **Requisitos Funcionais**
     - O usuário deve poder recuperar sua senha informando o seu e-mail;
@@ -128,7 +118,7 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
   git clone https://github.com/andre-aw6/puc-minas.git
 ```
 
-## 💻 Instruções para o back end
+## Instruções para o back end
 
   Começaremos criando as instâncias dos nossos bancos de dados. Para esse projeto, o **docker** foi utilizado. Abaixo, seguem os comandos para criar os containers e inicializar as instâncias:
 
@@ -166,7 +156,7 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
 
 ---
 
-## 💻 Instruções para o front end
+## Instruções para o front end
  
   Após executar o passo anterior e garantir que o back end está rodando, você poderá inicializar o front end:
 
@@ -181,7 +171,7 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
     yarn start
   ```
 
-## 🐞 Executando testes
+## Executando testes
 
   ```bash
     # Acessar a pasta do back end
@@ -192,13 +182,3 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
   ```
 
 ---
- 
-
-*Páginas de Login e de Cadastro*
-
-<img src="https://user-images.githubusercontent.com/11545976/79991191-5e41a300-8488-11ea-9374-1a2a75278e75.gif" />
-
-*Páginas de Dashboard e Perfil*
-
-<img src="https://user-images.githubusercontent.com/11545976/82741895-98bf8980-9d2d-11ea-9a57-ebf7142f9ba7.gif" />
- 
