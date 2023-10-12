@@ -125,7 +125,7 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
 > Inicialmente precisamos clonar o repositório para ter acesso a todas as pastas
 ```bash
   # Clonando repositório
-  git clone https://github.com/AugustoMarcelo/gobarber.git
+  git clone https://github.com/andre-aw6/puc-minas.git
 ```
 
 ## 💻 Instruções para o back end
@@ -193,11 +193,6 @@ Nesta versão, foram aplicados padrões de arquitetura e boas práticas de progr
 
 ---
  
-## 📱 Instruções para o mobile
-  > Em desenvolvimento
-
-## 📸 Interfaces da aplicação
-  > Em desenvolvimento
 
 *Páginas de Login e de Cadastro*
 
